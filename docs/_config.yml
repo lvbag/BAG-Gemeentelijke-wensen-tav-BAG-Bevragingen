@@ -53,7 +53,7 @@ plugins:
 
 remote_theme: VNG-Realisatie/jekyll-theme-haal-centraal
 
-github: VNG-Realisatie/BAG-Gemeentelijke-wensen-tav-BAG-Bevragingen
+github: lvbag/BAG-Gemeentelijke-wensen-tav-BAG-Bevragingen
 theme: jekyll-theme-time-machine
 
 project_name: /BAG-Gemeentelijke-wensen-tav-BAG-Bevragingen
