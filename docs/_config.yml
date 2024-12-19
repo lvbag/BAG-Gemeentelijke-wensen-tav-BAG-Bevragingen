@@ -50,6 +50,7 @@ nav:
 plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
+  
 
 remote_theme: VNG-Realisatie/jekyll-theme-haal-centraal
 
